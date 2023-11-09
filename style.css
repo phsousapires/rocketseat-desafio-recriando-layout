@@ -1,0 +1,67 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+#main {
+  width: 626px;
+  height: 486px;
+  margin: 64px auto 64px;
+}
+
+/* Não esquecer do comando margin */
+
+#main img {
+  margin: 0 auto 32px;
+}
+
+h1 {
+  color: #3F3D56;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  line-height: normal;
+  margin: 0 auto 16px;
+}
+
+h1 span {
+  color: #EE24FF;
+}
+
+p {
+  color: #828282;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  line-height: 22px;
+  width: 540px;
+  margin: 0 auto 32px;
+}
+
+p span {
+  color: #3F3D56;
+  font-weight: bold;
+}
+
+#footer {
+  margin: 64px auto 0;
+}
+
+#footer a + a {
+  margin-left: 42px;
+}
+
+a {
+  color: #3F3D56;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 23px;
+  margin: 0 auto 0;
+}
+
+#footer #wave {
+  margin: 40.83px auto 0;
+
+}
